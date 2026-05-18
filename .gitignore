@@ -1,0 +1,13 @@
+# Derlenmiş C++ dosyaları ve CMake yapılandırmaları
+build/
+bin/
+
+# Adli analiz raporları (Kişisel veriler GitHub'a gitmesin)
+veri/
+
+# Python önbellek dosyaları
+__pycache__/
+*.pyc
+
+# VS Code yapılandırmaları (varsa)
+.vscode/
