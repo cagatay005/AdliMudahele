@@ -1,14 +1,12 @@
 <div align="center">
   
-  # AdliMudahele
-  **Digital Forensics & Incident Response (DFIR) First-Response Tool**
-  **Dijital Adli Bilişim ve Olay Müdahalesi (DFIR) İlk Müdahale Aracı**
+# AdliMudahele
+**Digital Forensics & Incident Response (DFIR) First-Response Tool**<br>
+**Dijital Adli Bilişim ve Olay Müdahalesi (DFIR) İlk Müdahale Aracı**
 
-  <p>
-    <img src="[https://img.shields.io/badge/OS-Ubuntu%20%7C%20Linux-orange?style=for-the-badge&logo=ubuntu](https://img.shields.io/badge/OS-Ubuntu%20%7C%20Linux-orange?style=for-the-badge&logo=ubuntu)" alt="Ubuntu">
-    <img src="[https://img.shields.io/badge/Backend-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B](https://img.shields.io/badge/Backend-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B)" alt="C++">
-    <img src="[https://img.shields.io/badge/Frontend-Python-3776AB?style=for-the-badge&logo=python](https://img.shields.io/badge/Frontend-Python-3776AB?style=for-the-badge&logo=python)" alt="Python">
-  </p>
+![Ubuntu](https://img.shields.io/badge/OS-Ubuntu%20%7C%20Linux-orange?style=for-the-badge&logo=ubuntu)
+![C++](https://img.shields.io/badge/Backend-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B)
+![Python](https://img.shields.io/badge/Frontend-Python-3776AB?style=for-the-badge&logo=python)
 
 </div>
 
