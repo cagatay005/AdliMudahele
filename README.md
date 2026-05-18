@@ -44,7 +44,7 @@
 
 ---
 
-## ⚙️ Prerequisites / Gereksinimler
+## Prerequisites / Gereksinimler
 
 Before running the tool, ensure you have the necessary compilers and libraries installed on your Ubuntu system: / *Aracı çalıştırmadan önce, Ubuntu sisteminizde gerekli derleyici ve kütüphanelerin kurulu olduğundan emin olun:*
 
@@ -107,5 +107,5 @@ sha256sum -c delil.sha256
 
 ---
 
-## ⚠️ Disclaimer / Feragatname
+## Disclaimer / Feragatname
 *This tool is developed for educational and professional Digital Forensics and Incident Response (DFIR) purposes. The developer is not responsible for any misuse of this software. / Bu araç adli bilişim ve olay müdahalesi (DFIR) alanında eğitim ve profesyonel kullanım amacıyla geliştirilmiştir. Yazılımın kötüye kullanımından geliştirici sorumlu tutulamaz.*
